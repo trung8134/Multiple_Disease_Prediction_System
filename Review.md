@@ -7,3 +7,5 @@ In this project, the techniques presented are logistic regression, XGBoost, and 
 - Understand how to use Machine Learning algorithms for practical projects.
 - Have knowledge about machine learning.
 - Know how to develop a small personal project with Streamlit.
+
+-> Demo.py file is a file used to run the demo streamlit program on a local web.
